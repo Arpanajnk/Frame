@@ -160,4 +160,4 @@ sequenceDiagram
     App->>IG: Show Settings Panel
     IG-->>App: User Expands Settings
     App->>IG: Display Detailed Settings
-    ```
+    
